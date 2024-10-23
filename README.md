@@ -81,9 +81,6 @@ Setting up development environment (for VS Code Users)
   Your project will get loaded on the localhost url:
   http://127.0.0.1:5500/
   
-## Roadmap
-
-See the [open issues](https://github.com/gdscjgec/Image-Editor/issues) for a list of proposed features (and known issues). Feel free to raise new issues.
 
 ## Contributing
 
@@ -100,12 +97,4 @@ Contributions are what make the open source community such an amazing place to l
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Contact
 
-Mail us at - gdsc@jgec.ac.in
-
-## Contributors
-
-<a href="https://github.com/gdscjgec/Image-Editor/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=gdscjgec/Image-Editor" />
-</a>
